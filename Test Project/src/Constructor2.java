@@ -1,4 +1,4 @@
-
+//airthmatic operations using constructor
 public class Constructor2 
 {
 	public Constructor2(int a, int b)
