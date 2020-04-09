@@ -19,11 +19,11 @@ public class LoopandCondition1
 		
 		if(a%2==0)
 		{
-			System.out.println("Remainder is even no");
+			System.out.println("Remainder is even");
 		}
 		else
 		{
-			System.out.println("Remainder is odd no");
+			System.out.println("Remainder is odd");
 		}
 		
 		System.out.println("Enter the Marks");
