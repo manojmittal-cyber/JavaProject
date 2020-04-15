@@ -1,3 +1,4 @@
+package AbstractionExamples;
 //Interface provide 100% abstraction
 
 public interface AbstractInterface 

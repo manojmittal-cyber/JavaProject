@@ -1,3 +1,4 @@
+package LoopsAndlogic;
 
 //Swapping of two numbers using 3rd variable
 

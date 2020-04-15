@@ -1,3 +1,4 @@
+package LoopsAndlogic;
 import java.util.Scanner;
 
 public class LoopandCondition1 

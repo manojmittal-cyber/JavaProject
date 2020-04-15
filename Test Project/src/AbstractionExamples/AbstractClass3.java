@@ -1,3 +1,4 @@
+package AbstractionExamples;
 
 public class AbstractClass3 implements AbstractInterface
 {
